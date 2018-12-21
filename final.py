@@ -1,9 +1,7 @@
 #---------------------------------------------------------------------------
 """
 Julian Michael Rice
-204793996
 
-PIC 16: Final Project
 PyQt, PyAudio, OpenCV, Random, Numpy, Threading, and Classes
 
 Project: Element of Surprise
